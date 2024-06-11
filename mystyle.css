@@ -1,2 +1,5 @@
 /* h1{color:cyan;} */
 h1{color:#00FFFF;}
+th,td{border:dashed thick black;}
+<th class="important">長所</th>
+th.important{color:red}
