@@ -1,3 +1,3 @@
 alert('hello,Osamu!');
-alert(Number('2')+Number('3')
-alert8math.sqrt(Number('2')+Number('3');
+alert(Number(1+1)
+alert8math.sqrt(1+1);
